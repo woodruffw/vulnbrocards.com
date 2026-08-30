@@ -11,7 +11,7 @@ and is now the living copy of that blog post.
 
 ## Integrations
 
-### LLM skill
+### LLMs
 
 !!! note
 
