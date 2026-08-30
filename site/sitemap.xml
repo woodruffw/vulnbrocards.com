@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://vulnbrocards.com/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/how-to-use/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/brocards/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/brocards/vb001-no-vuln-report-without-threat-model/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/brocards/vb002-no-exploit-from-heavens/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/brocards/vb003-no-vuln-outside-of-usage/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/brocards/vb004-no-vuln-from-standard-behavior/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/brocards/vb005-no-vuln-from-documented-behavior/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/brocards/vb006-no-cure-worse-than-disease/</loc>
+      </url>
+      <url>
+        <loc>https://vulnbrocards.com/resources/</loc>
+      </url>
+</urlset>
