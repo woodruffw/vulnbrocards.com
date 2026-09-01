@@ -22,7 +22,7 @@ Brocards = [
   { "No vulnerability from standard behavior" = "brocards/vb004-no-vuln-from-standard-behavior.md" },
   { "No vulnerability from documented behavior" = "brocards/vb005-no-vuln-from-documented-behavior.md" },
   { "No cure worse than the disease" = "brocards/vb006-no-cure-worse-than-disease.md" },
-  { "The report is neither necessary nor sufficient" = "brocards/vb007-report-neither-necessary-nor-sufficient" },
+  { "The report is neither necessary nor sufficient" = "brocards/vb007-report-neither-necessary-nor-sufficient.md" },
 ]
 
 [[project.nav]]
