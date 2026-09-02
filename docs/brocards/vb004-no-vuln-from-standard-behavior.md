@@ -10,7 +10,7 @@ and not the implementation.
 
 - Many standards (inadvisedly) require implementors to accept invalid inputs
   under the so-called [robustness principle](https://en.wikipedia.org/wiki/Robustness_principle).
-  Behavior that adheres to these requirements is not vulnerable _per se_.
+  Behavior that adheres to these requirements is not a vulnerability _per se_.
 
 - Behavior stemming from cryptographic requirements that are insecure in isolation but secure by construction.
   For example, MD5 is considered an insecure digest but is not insecure when used in an HMAC-MD5
