@@ -2,21 +2,26 @@
 
 Welcome to [vulnbrocards.com](https://vulnbrocards.com), home of the "vulnerability brocard."
 
+A _vulnerability brocard_ is an [aphorism](https://en.wikipedia.org/wiki/Aphorism)
+or concise [maxim](https://en.wikipedia.org/wiki/Legal_maxim) that can help you analyze the correctness
+and importance of a software vulnerability report when performing triage.
+
 See [How to use](./how-to-use.md) for _how_ to apply vulnerability brocards during
 security triage, and the [Brocards](./brocards/) themselves for the full list.
 
-## What is a vulnerability brocard?
+## Why "brocard"?
+
+!!! tip
+
+    It's pronounced closer to "brokered," not "bro-card."
 
 !!! tip
 
     See the [original blog post](https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage)
     for more context.
 
-A _vulnerability brocard_ is an [aphorism](https://en.wikipedia.org/wiki/Aphorism)
-or concise [maxim](https://en.wikipedia.org/wiki/Legal_maxim) that can help you analyze the correctness
-and importance of a software vulnerability report when performing triage.
-
 Vulnerability brocards take their name from [legal brocards](https://en.wikipedia.org/wiki/Brocard_(law)).
+Legal brocards, in turn, take their name from [Burchard of Worms](https://en.wikipedia.org/wiki/Burchard_of_Worms).
 
 Brocards are useful (both in law and in vulnerability triage) because they can be used to _preclude_
 the re-litigation of arguments or well-trodden fundamentals.
