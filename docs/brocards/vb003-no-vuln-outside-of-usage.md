@@ -9,3 +9,10 @@ A vulnerability report can be safely dismissed if it describes a behavior that c
 
 - Re-reports of vulnerabilities in dependencies, where all downstream usage of
   the dependency is demonstrably not affected by the upstream vulnerability.
+
+## Nuances
+
+- Sometimes functionality is *intended* to be unreachable (e.g. a private API),
+  but is *in fact* reachable. When this occurs the *intent* behind the privateness
+  or interiority of the functionality becomes irrelevant, since the behavior
+  can in fact occur.
